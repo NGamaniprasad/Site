@@ -1,1 +1,1 @@
-# Site
+# Simple projects
